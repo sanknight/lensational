@@ -613,7 +613,7 @@ p.para{
 {
 	width:85%;
 	height: 400px;
-	margin: 0 auto;
+	margin: 10 auto;
 }
 /************porfolio*************/
 .latest_wroks {
@@ -1616,6 +1616,29 @@ display:block;
 	transition: all 0.1s ease-in-out;
 	border-radius: 3px;
 	outline: none;
+}
+
+a.button {
+  margin-top:10px;
+	font-family: 'Open Sans', sans-serif;
+	-webkit-appearance: none;
+	cursor:pointer;
+	color: #fff;
+	align: center;
+	background: #22BE64;
+	border: 1px solid #22BE64; 
+	display: inline-block;
+	text-transform: uppercase;
+	padding: 12px 30px;
+	font-size: 1em;
+	font-weight:600;
+	-webkit-transition: all 0.1s ease-in-out;
+	-moz-transition: all 0.1s ease-in-out;
+	-o-transition: all 0.1s ease-in-out;
+	transition: all 0.1s ease-in-out;
+	border-radius: 3px;
+	outline: none;
+
 }
 
 /* Photos Button */
